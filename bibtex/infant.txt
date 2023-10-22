@@ -1,0 +1,6 @@
+@article{engelsma2019infant,
+  title={Infant-Prints: Fingerprints for Reducing Infant Mortality},
+  author={Engelsma, Joshua J and Deb, Debayan and Jain, Anil K and Sudhish, Prem S and Bhatnager, Anjoo},
+  journal={arXiv preprint arXiv:1904.01091},
+  year={2019}
+}

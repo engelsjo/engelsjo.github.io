@@ -1,0 +1,7 @@
+@article{engelsma2021infant,
+  title={Infant-ID: Fingerprints for Global Good},
+  author={Engelsma, Joshua James and Deb, Debayan and Cao, Kai and Bhatnagar, Anjoo and Sudhish, Prem Sewak and Jain, Anil K},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021},
+  publisher={IEEE}
+}

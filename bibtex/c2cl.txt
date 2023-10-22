@@ -1,0 +1,6 @@
+@article{grosz2021c2cl,
+  title={C2CL: Contact to Contactless Fingerprint Matching},
+  author={Grosz, Steven A and Engelsma, Joshua J and Jain, Anil K},
+  journal={arXiv preprint arXiv:2104.02811},
+  year={2021}
+}

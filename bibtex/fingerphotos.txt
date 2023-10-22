@@ -1,0 +1,6 @@
+@article{deb2018matching,
+  title={Matching Fingerphotos to Slap Fingerprint Images},
+  author={Deb, Debayan and Chugh, Tarang and Engelsma, Joshua and Cao, Kai and Nain, Neeta and Kendall, Jake and Jain, Anil K},
+  journal={arXiv preprint arXiv:1804.08122},
+  year={2018}
+}

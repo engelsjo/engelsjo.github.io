@@ -1,0 +1,6 @@
+@article{engelsma2019generalizing,
+  title={Generalizing Fingerprint Spoof Detector: Learning a One-Class Classifier},
+  author={Engelsma, Joshua J and Jain, Anil K},
+  journal={arXiv preprint arXiv:1901.03918},
+  year={2019}
+}

@@ -1,0 +1,6 @@
+@article{engelsma2018fingerprint,
+  title={Fingerprint Match in Box},
+  author={Engelsma, Joshua J and Cao, Kai and Jain, Anil K},
+  journal={arXiv preprint arXiv:1804.08659},
+  year={2018}
+}

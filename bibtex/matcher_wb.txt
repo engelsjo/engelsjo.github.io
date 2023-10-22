@@ -1,0 +1,6 @@
+@article{grosz2019white,
+  title={White-Box Evaluation of Fingerprint Matchers},
+  author={Grosz, Steven A and Engelsma, Joshua J and Paulter Jr, Nicholas G and Jain, Anil K},
+  journal={arXiv preprint arXiv:1909.00799},
+  year={2019}
+}

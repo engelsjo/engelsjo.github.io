@@ -1,0 +1,7 @@
+@article{engelsma2018raspireader,
+  title={Raspireader: Open source fingerprint reader},
+  author={Engelsma, Joshua James and Cao, Kai and Jain, Anil K},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2018},
+  publisher={IEEE}
+}

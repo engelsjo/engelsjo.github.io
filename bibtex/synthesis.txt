@@ -1,0 +1,6 @@
+@article{mistry2019fingerprint,
+  title={Fingerprint Synthesis: Search with 100 Million Prints},
+  author={Mistry, Vishesh and Engelsma, Joshua J and Jain, Anil K},
+  journal={arXiv preprint arXiv:1912.07195},
+  year={2019}
+}

@@ -1,0 +1,6 @@
+@article{engelsma2020hers,
+  title={HERS: Homomorphically Encrypted Representation Search},
+  author={Engelsma, Joshua J and Jain, Anil K and Boddeti, Vishnu Naresh},
+  journal={arXiv preprint arXiv:2003.12197},
+  year={2020}
+}

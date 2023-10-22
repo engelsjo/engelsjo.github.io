@@ -1,0 +1,6 @@
+@article{popli2021unified,
+  title={A Unified Model for Fingerprint Authentication and Presentation Attack Detection},
+  author={Popli, Additya and Tandon, Saraansh and Engelsma, Joshua J and Onoe, Naoyuki and Okubo, Atsushi and Namboodiri, Anoop},
+  journal={arXiv preprint arXiv:2104.03255},
+  year={2021}
+}

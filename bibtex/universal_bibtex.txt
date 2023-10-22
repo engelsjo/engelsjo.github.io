@@ -1,0 +1,6 @@
+@article{engelsma2017universal,
+  title={Universal 3D Wearable Fingerprint Targets: Advancing Fingerprint Reader Evaluations},
+  author={Engelsma, Joshua J and Arora, Sunpreet S and Jain, Anil K and Paulter Jr, Nicholas G},
+  journal={arXiv preprint arXiv:1705.07972},
+  year={2017}
+}
